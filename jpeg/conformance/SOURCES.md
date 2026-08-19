@@ -84,7 +84,7 @@ Valid JPEG files that conformant decoders must handle correctly.
 | File | Source | License | Notes |
 |------|--------|---------|-------|
 | cmyk_logo.jpg | imageflow | AGPL-3.0 | CMYK color model |
-| cymk.jpg | zune-image | MIT | CMYK color model |
+| cmyk.jpg | zune-image | MIT | CMYK color model |
 | ycck.jpg | jpeg-decoder | MIT | YCCK color model |
 
 ---
